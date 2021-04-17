@@ -1,7 +1,7 @@
 {
   "name": "parking_lot",
   "version": "1.0.0",
-  "description": "praking_lot_test_case",
+  "description": "parking_lot_test_case",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
