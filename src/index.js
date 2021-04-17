@@ -1,4 +1,4 @@
-const fs    = require('fb')
+const fs    = require('fs')
 const Table = require('cli-table3')
 const fileInput = 'file_input.txt'
 
