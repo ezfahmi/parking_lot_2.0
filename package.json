@@ -1,0 +1,15 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "praking_lot_test_case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Eik Fahmi",
+  "license": "nodemon",
+  "dependencies": {
+    "cli-table3": "^0.6.0"
+  }
+}
